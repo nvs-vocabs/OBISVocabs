@@ -9,7 +9,7 @@ assignees: ''
 ---
 
 ## MeasurementType
-Please specify the kind of measuremnet type your request is targetting (also use existing labels if any applies)
+Please specify the measurement type your request is targetting (also use existing labels if any applies)
 
 ## Issue
 Please describe the issue you want to report
